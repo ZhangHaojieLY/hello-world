@@ -1,2 +1,6 @@
 # hello-world
-Just try!
+
+Hello Humans!
+
+I like C and C++(but I'm a GISer).
+
